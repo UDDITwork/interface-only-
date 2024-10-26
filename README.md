@@ -12,6 +12,6 @@
 │   ├── lucifer.html
 │   └── master.html
 │
-└── static/             # Folder for static files (CSS, JS, images, etc.)
+└── static/              # Folder for static files (CSS, JS, images, etc.)
     ├── css/
     └── js/
