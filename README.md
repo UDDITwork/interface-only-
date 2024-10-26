@@ -3,7 +3,7 @@
 ├── app.py              # Your main Flask application file
 ├── requirements.txt    # Lists all Python dependencies
 ├── Procfile            # Defines how to run the app on Heroku
-├── venv/               # Your virtual environment directory (not necessary to upload)
+├── venv/               # Your virtual environment directory (n ot necessary to upload)
 │
 ├── templates/          # Folder for HTML templates
 │   ├── goal.html
